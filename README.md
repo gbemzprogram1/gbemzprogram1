@@ -1,6 +1,6 @@
 - 👋 Hi, I’m @gbemzprogram1
-- 👀 I’m interested in Cybersecurity and Cloud Computing
-- 🌱 I’m currently learning Python
+- 👀 I’m interested in Cybersecurity, Cloud Computing and Software Engineering
+- 🌱 I’m currently Building Python Projects 
 
 - 📫 How to reach me ...
 - 😄 Pronouns: ...
